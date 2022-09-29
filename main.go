@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/nickater/go-vending-machine/models"
-	"github.com/nickater/go-vending-machine/ui"
-	"github.com/nickater/go-vending-machine/utils"
+	"github.com/nickater/golang-vending-machine/models"
+	"github.com/nickater/golang-vending-machine/ui"
+	"github.com/nickater/golang-vending-machine/utils"
 )
 
 func fetchProducts() []models.RawProduct {

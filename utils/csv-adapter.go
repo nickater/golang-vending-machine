@@ -4,7 +4,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/nickater/go-vending-machine/models"
+	"github.com/nickater/golang-vending-machine/models"
 )
 
 func DecipherProductCSV(csv [][]string) []models.RawProduct {
